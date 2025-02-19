@@ -1,5 +1,3 @@
-
-### # 💫 About Me:
 <br><br>
 ### Hello! 👋  
 My name is **Eugene**, and I am a beginning **Frontend Developer** who is passionate about creating beautiful and functional web interfaces. 🌐  
